@@ -1,0 +1,32 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="227" filedate="2018-02-25 08:15:36" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="151" filedate="2018-02-25 08:15:36" width="12px" height="12px">
+</image>
+<image path="images/frontispiece.jpg" filesize="142594" filedate="2019-06-04 18:47:46" width="499px" height="720px">
+</image>
+<image path="images/logo.jpg" filesize="23129" filedate="2019-06-04 18:47:47" width="232px" height="256px">
+</image>
+<image path="images/new-cover.jpg" filesize="68825" filedate="2019-06-04 19:03:39" width="480px" height="720px">
+</image>
+<image path="images/p059.jpg" filesize="124039" filedate="2019-06-04 18:47:47" width="496px" height="720px">
+</image>
+<image path="images/p088.jpg" filesize="136757" filedate="2019-06-04 18:47:47" width="720px" height="495px">
+</image>
+<image path="images/p147.jpg" filesize="124352" filedate="2019-06-04 18:47:47" width="500px" height="720px">
+</image>
+<image path="images/p176.jpg" filesize="148066" filedate="2019-06-04 18:47:47" width="497px" height="720px">
+</image>
+<image path="images/p270.jpg" filesize="127873" filedate="2019-06-04 18:47:48" width="498px" height="720px">
+</image>
+<image path="images/p286.jpg" filesize="132570" filedate="2019-06-04 18:47:48" width="720px" height="498px">
+</image>
+<image path="images/p287.jpg" filesize="137499" filedate="2019-06-04 18:47:48" width="720px" height="494px">
+</image>
+<image path="images/qrcode.png" filesize="266" filedate="2019-06-05 21:54:30" width="148px" height="148px">
+</image>
+<image path="images/titlepage.png" filesize="6725" filedate="2019-06-04 18:47:52" width="483px" height="720px">
+</image>
+</images>
